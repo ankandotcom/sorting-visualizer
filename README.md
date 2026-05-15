@@ -4,7 +4,7 @@
 
 > **Sorting Visualizer** Visualizes the runtime behaviour of standard Sorting Algorithms by means of 2D-Animations on a Webpage .
 
-**[Live Demo Link →](sorting-visualizer-five-pink.vercel.app)**
+**[Live Demo Link →]([sorting-visualizer-five-pink.vercel.app](https://sorting-visualizer-five-pink.vercel.app/))**
 
 ## Check out Here .
 
